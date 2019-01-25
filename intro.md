@@ -1,6 +1,7 @@
 # Intro
 > "inch deep mile wide"
 > [from CISSP ALL-IN-ONE EXAM GUIDE]
+
 CISSP professional ensurance the availability, integrity and confidentiality of information systems.
 The best security people are the ones who are driven towards an ethical outcome.
 
