@@ -26,7 +26,9 @@ Core goals of security is to provide:
 - availability
 - integrity
 - confidentiality 
+
 also known as (AIC triad, also known as CIA).
+
 
 # Terms and definitions
 Terms:
